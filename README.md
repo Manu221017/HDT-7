@@ -21,5 +21,3 @@ Se crea una instancia de BinaryTree con un nodo raíz y se insertan nodos adicio
 Se realizan varias aserciones para verificar si la búsqueda de nodos funciona correctamente y si el recorrido en inorden del árbol no lanza excepciones.
 
 Se define un método de prueba llamado testMain(), que puede contener pruebas para la clase Main.
-
-En el ejemplo proporcionado, no se han incluido pruebas específicas para Main, pero este método puede ser utilizado para agregar pruebas para los métodos processDictionaryFile() y translateText() si es necesario.
